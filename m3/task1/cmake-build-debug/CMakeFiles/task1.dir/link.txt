@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/task1.dir/source/ArcGraph.cpp.o CMakeFiles/task1.dir/source/ListGraph.cpp.o CMakeFiles/task1.dir/source/MatrixGraph.cpp.o CMakeFiles/task1.dir/source/SetGraph.cpp.o CMakeFiles/task1.dir/source/main.cpp.o -o task1 
